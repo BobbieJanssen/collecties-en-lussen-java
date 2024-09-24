@@ -1,0 +1,16 @@
+Twee arrays:
+int[] numeric = (1, 2, 3 ,4 ,5 ,6 ,7 ,8, 9, 0);
+String[] alphabetical = (een, twee, drie, vier, vijf, zes, zeven, acht, negen, nul);
+
+while (boolean)
+
+HashMap translated = new Hashmap;
+
+Scanner input = new Scanner (int input)
+
+input -> translator
+
+public static void translator ((int numeric), (String alphabetical), translated) {
+
+}
+
